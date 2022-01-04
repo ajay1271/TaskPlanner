@@ -11,7 +11,7 @@ Built with Single Activity Architecture and MVVM
 
 This app demonstrates Android Architecture Components such as
 
-1. ViewBinding
+1. Data Binding
 2. ViewModels
 3. LiveData
 4. Coroutines
