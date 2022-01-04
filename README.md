@@ -9,7 +9,7 @@ Move Task Between InComplete InProgress and Completed categories 🚀 ❌ ✔️
 
 Built with Single Activity Architecture and MVVM
 
-This app demonstrates Android Architecture Components such as
+This app demonstrates concepts such as
 
 1. Data Binding
 2. ViewModels
