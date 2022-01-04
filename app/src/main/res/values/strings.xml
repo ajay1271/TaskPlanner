@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Planner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">title</string>
+    <string name="desciption">Desciption</string>
+    <string name="priority1_5">Priority1-5</string>
+    <string name="add_task">Add Task</string>
+    <string name="completed">Done</string>
+    <string name="add_tasks">Add Tasks!</string>
+    <string name="inprogress">InProgress</string>
+    <string name="incompleted">InCompleted</string>
+</resources>

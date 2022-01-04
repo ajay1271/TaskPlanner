@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/toDoDashBoard">
+
+    <fragment
+        android:id="@+id/toDoDashBoard"
+        android:name="com.ajayspace.taskplanner.ToDoDashBoard"
+        android:label="Dashboard">
+        <action
+            android:id="@+id/action_toDoDashBoard_to_addItemFragment"
+            app:destination="@id/addItemFragment"
+            app:popUpTo="@id/toDoDashBoard"
+            app:popUpToInclusive="false" />
+        <action
+            android:id="@+id/action_toDoDashBoard_to_taskDetails"
+            app:destination="@id/taskDetails"
+            app:popUpTo="@id/toDoDashBoard" />
+    </fragment>
+    <fragment
+        android:id="@+id/addItemFragment"
+        android:name="com.ajayspace.taskplanner.AddItemFragment"
+        android:label="Add" >
+        <action
+            android:id="@+id/action_addItemFragment_to_toDoDashBoard"
+            app:destination="@id/toDoDashBoard"
+            app:popUpToInclusive="false" />
+    </fragment>
+    <fragment
+        android:id="@+id/taskDetails"
+        android:name="com.ajayspace.taskplanner.TaskDetails"
+        android:label="Details" >
+        <argument
+            android:name="taskItem"
+            app:argType="com.ajayspace.taskplanner.database.TodoItem" />
+
+    </fragment>
+</navigation>
