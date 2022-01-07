@@ -20,7 +20,7 @@ This app demonstrates concepts such as
 
 and Room Database
 
-[Currently under review in playstore will go live on this link](https://play.google.com/store/apps/details?id=com.ajayspace.taskplanner)
+[Google PlayStore](https://play.google.com/store/apps/details?id=com.ajayspace.taskplanner)
 
 # Preview 👀
 
