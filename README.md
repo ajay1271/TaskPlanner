@@ -9,7 +9,6 @@ Move Task Between InComplete InProgress and Completed categories 🚀 ❌ ✔️
 
 
 
-and Room Database
 
 [Google PlayStore](https://play.google.com/store/apps/details?id=com.ajayspace.taskplanner)
 
