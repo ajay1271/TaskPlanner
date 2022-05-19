@@ -7,15 +7,6 @@ Users can create a Task 📝
 
 Move Task Between InComplete InProgress and Completed categories 🚀 ❌ ✔️
 
-This app demonstrates concepts such as
-
-1. Data Binding
-2. ViewModels
-3. LiveData
-4. Coroutines
-5. Jetpack Navigation
-6. MVVM
-7. Single Activiy Architecture 
 
 
 and Room Database
