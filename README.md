@@ -10,7 +10,7 @@ Move Task Between InComplete InProgress and Completed categories 🚀 ❌ ✔️
 
 
 
-[Google PlayStore](https://play.google.com/store/apps/details?id=com.ajayspace.taskplanner)
+Available on [Google PlayStore](https://play.google.com/store/apps/details?id=com.ajayspace.taskplanner)
 
 # Preview 👀
 
